@@ -58,7 +58,7 @@ substitutions:
   ####
   # GARAGE DOOR CLOSE WARNING DURATION
   # Duration to blink the warning LED and beep the buzzer before the garage door closes.
-  garage_door_close_warning_duration: 5s
+  garage_door_close_warning_duration: 0s
 
   ####
   # ADDITIONAL SETTTINGS
